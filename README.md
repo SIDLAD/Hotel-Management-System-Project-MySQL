@@ -3,4 +3,4 @@ Creating a database for Hotel management along with stress-tested functions and 
 
 Contributors:
 - SIDLAD
-- Rijul Bassamboo
+- Rijul88
